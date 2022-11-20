@@ -1,0 +1,13 @@
+C:\Users\alexa\source\repos\BuclesBernalEthan\BuclesBernalEthan\bin\Debug\BuclesBernalEthan.exe.config
+C:\Users\alexa\source\repos\BuclesBernalEthan\BuclesBernalEthan\bin\Debug\BuclesBernalEthan.exe
+C:\Users\alexa\source\repos\BuclesBernalEthan\BuclesBernalEthan\bin\Debug\BuclesBernalEthan.pdb
+C:\Users\alexa\source\repos\BuclesBernalEthan\BuclesBernalEthan\obj\Debug\BuclesBernalEthan.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\BuclesBernalEthan\BuclesBernalEthan\obj\Debug\BuclesBernalEthan.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\source\repos\BuclesBernalEthan\BuclesBernalEthan\obj\Debug\BuclesBernalEthan.Form1.resources
+C:\Users\alexa\source\repos\BuclesBernalEthan\BuclesBernalEthan\obj\Debug\BuclesBernalEthan.Properties.Resources.resources
+C:\Users\alexa\source\repos\BuclesBernalEthan\BuclesBernalEthan\obj\Debug\BuclesBernalEthan.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\BuclesBernalEthan\BuclesBernalEthan\obj\Debug\BuclesBernalEthan.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\BuclesBernalEthan\BuclesBernalEthan\obj\Debug\BuclesBernalEthan.exe
+C:\Users\alexa\source\repos\BuclesBernalEthan\BuclesBernalEthan\obj\Debug\BuclesBernalEthan.pdb
+C:\Users\alexa\source\repos\BuclesBernalEthan\BuclesBernalEthan\obj\Debug\BuclesBernalEthan.frmDecimal_a_binario.resources
+C:\Users\alexa\source\repos\BuclesBernalEthan\BuclesBernalEthan\obj\Debug\BuclesBernalEthan.frmDecimal_a_Binario_chkbox.resources
